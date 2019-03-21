@@ -1,0 +1,54 @@
+[CENTER][IMG="Kraken"]https://raw.githubusercontent.com/KrakenProject/KrakenStuff/master/img/kraken-banner-XDA.png[/IMG]
+
+[CODE] /*
+ * I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed (like it did for me...).
+ * Please do some research if you have any concerns about features included in the products you find here before flashing it!
+ * YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
+ * Your warranty will be void if you tamper with any part of your device / software.
+ * Same statement for XDA.
+ */[/CODE]
+
+[COLOR="Indigo"][SIZE="5"][B][U]About:[/U][/B][/SIZE][/COLOR]
+Our proposal is giving the best of clean Android experience, without forgetting few useful personalizations!
+
+[COLOR="Indigo"][SIZE="5"][B][U]GApps:[/U][/B][/SIZE][/COLOR]
+[B]DON'T FLASH GAPPS[/B], The OpenGApps project is already included.
+
+[COLOR="Indigo"][SIZE="5"][B][U]What's working:[/U][/B][/SIZE][/COLOR]
+Boots
+RIL (Calls, SMS, Data)
+Fingerprint
+Wi-Fi
+Bluetooth
+Camera
+Audio
+Flash
+Maybe more I haven't tested everything, let me know
+
+[COLOR="Indigo"][SIZE="5"][B][U]Known issues:[/U][/B][/SIZE][/COLOR]
+---
+
+[COLOR="Indigo"][SIZE="5"][B][U]Instructions:[/U][/B][/SIZE][/COLOR]
+Download the latest build
+Reboot to recovery
+Flash the latest build
+Reboot
+
+[COLOR="Indigo"][SIZE="5"][B][U]Special Thanks:[/U][/B][/SIZE][/COLOR]
+[URL="https://github.com/LineageOS"]LineageOS[/URL]
+[URL="https://github.com/opengapps"]OpenGApps[/URL]
+[URL="https://github.com/ViperOS"]ViperOS[/URL]
+[URL="https://github.com/AospExtended"]AospExtended[/URL]
+[URL="https://github.com/crDroidandroid"]crDroid[/URL]
+[URL="https://github.com/DirtyUnicorns"]DirtyUnicorns[/URL]
+
+[COLOR="Indigo"][SIZE="5"][B][U]Downloads:[/U][/B][/SIZE][/COLOR]
+[B][SIZE="4"][URL="https://sourceforge.net/projects/krakenproject/files/"]* Download Kraken *[/URL][/B][/SIZE]
+
+[I][B][SIZE="3"][URL="https://github.com/KrakenProject"]* Github Source *[/URL]
+[URL="https://t.me/KrakenNews"]* Telegram News *[/URL]
+[URL="https://t.me/KrakenProject"]* Telegram Chat *[/URL][/SIZE][/B][/I][/CENTER]
+
+ROM OS Version: 9.x Pie
+ROM Kernel: Linux 4.x
+ROM Firmware Required: TWRP, Unlocked bootloader
