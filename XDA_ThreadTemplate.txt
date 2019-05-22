@@ -15,15 +15,7 @@ Our proposal is giving the best of clean Android experience, without forgetting 
 [B]DON'T FLASH GAPPS[/B], The OpenGApps project is already included.
 
 [COLOR="Indigo"][SIZE="5"][B][U]What's working:[/U][/B][/SIZE][/COLOR]
-Boots
-RIL (Calls, SMS, Data)
-Fingerprint
-Wi-Fi
-Bluetooth
-Camera
-Audio
-Flash
-Maybe more I haven't tested everything, let me know
+Yours Working in the build
 
 [COLOR="Indigo"][SIZE="5"][B][U]Known issues:[/U][/B][/SIZE][/COLOR]
 ---
@@ -50,5 +42,5 @@ Reboot
 [URL="https://t.me/KrakenProject"]* Telegram Chat *[/URL][/SIZE][/B][/I][/CENTER]
 
 ROM OS Version: 9.x Pie
-ROM Kernel: Linux 4.x
-ROM Firmware Required: TWRP, Unlocked bootloader
+ROM Kernel:
+ROM Firmware Required:
