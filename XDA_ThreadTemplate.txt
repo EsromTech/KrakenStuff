@@ -35,7 +35,7 @@ Reboot
 [URL="https://github.com/DirtyUnicorns"]DirtyUnicorns[/URL]
 
 [COLOR="Indigo"][SIZE="5"][B][U]Downloads:[/U][/B][/SIZE][/COLOR]
-[B][SIZE="4"][URL="https://sourceforge.net/projects/krakenproject/files/"]* Download Kraken *[/URL][/B][/SIZE]
+[B][SIZE="4"][URL="https://krakenproject.github.io/?device=YOUR_DEVICE"]* Download Kraken *[/URL][/B][/SIZE]
 
 [I][B][SIZE="3"][URL="https://github.com/KrakenProject"]* Github Source *[/URL]
 [URL="https://t.me/KrakenNews"]* Telegram News *[/URL]
